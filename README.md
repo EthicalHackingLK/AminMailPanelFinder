@@ -1,2 +1,3 @@
-<code>pip install - r requirements.txt</code>
-<code>python main.py</code>
+pip install - r requirements.txt
+
+python main.py
